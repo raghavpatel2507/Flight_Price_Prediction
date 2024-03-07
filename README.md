@@ -1,1 +1,5 @@
-## FLIGHT PRICE PREDICTION PROJECT:
+## End To End Flight Price Prediction
+
+# how to run?
+```bash
+```
